@@ -1,0 +1,6 @@
+aaa bbb ccc ddd
+bbb aaa ccc ddd
+bbb ccc aaa ddd
+bbb ccc ddd aaa
+aaa ddd bbb ccc
+ccc ddd bbb aaa
